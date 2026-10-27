@@ -22,7 +22,7 @@
         39
         40
     >;
-}
+};
 
 / {
     trackball_listener {
